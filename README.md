@@ -89,6 +89,7 @@ cv2.destroyAllWindows()
 ```
 # Output :
 
+![Adchaya](https://github.com/user-attachments/assets/79e18974-ea2b-479a-abc3-28eb553a28b0)
 
 # Result :
 
